@@ -1,0 +1,11 @@
+
+Our code file comprises of 5 sub files... Following are steps to run each file step by step:
+
+1. NLP (3)
+2. NLP_PROJECT_TOPIC_MODELING
+3. Data_Visualization_and_Vectorization
+4. Topic_Modeling_PDFs
+5. supervised_MachineLearning_Models
+6. BERT
+7. RNN
+8. CNN

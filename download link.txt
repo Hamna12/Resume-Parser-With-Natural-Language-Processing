@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-ver16#18121
